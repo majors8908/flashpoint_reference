@@ -3,10 +3,10 @@ title: Home
 layout: home
 ---
 
-This is a quickly thrown-together keyword and item reference for [Halo: Flashpoint][Halo: Flashpoint] by Mantic Games. This website is not sponsored or endorsed by Mantic Games in any way. I picked an early copy of the Recon edition up, and am loving the game. However, I am not loving the lack of any included reference sheet in the core box. I hope my fellow gamers find this useful!
+This is a quickly thrown-together keyword and item reference for [Halo: Flashpoint][Halo: Flashpoint] by [Mantic Games][Mantic Games]. This website is not sponsored or endorsed by Mantic Games in any way. I picked an early copy of the Recon edition up, and am loving the game. However, I am not loving the lack of any included reference sheet in the core box. I hope my fellow gamers find this useful!
 
-### [Item reference](docs/items.md) (*images coming soon?*)
-### [Keyword reference](docs/keywords.md)
+### [Item reference](items.md) (*images coming soon?*)
+### [Keyword reference](/keywords.md)
 
 ----
 
