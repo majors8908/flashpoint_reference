@@ -3,25 +3,28 @@ title: Keywords
 layout: home
 ---
 
-**Acrobatic**
+## Acrobatic
 
 This fighter displays great skill and flair when dealing death to their enemies, such that it is doubly demoralising to the teammates of the dead.
 
 For scenarios in which Kills count towards the victory conditions (e.g. Slayer), each enemy killed by a model with this keyword counts as 2 Kills.
 
+***
 
-**Active Camouflage**
+## Active Camouflage
 Armour with this feature is more difficult to see due to the way it manipulates light.
 
 If the model is targeted by a ranged attach, that attack is will not gain the Clear Shot +2 dice, High Ground +1 die, or Crouched +1 die modifiers if this model has fully charged Energy Shields.
 
-**Blast**
+***
+
+## Blast
 
 This weapon causes a large blast radius on detonation, which can even affect soldiers standing some distance away.
 
 Before the damage and other effects of this weapon have been resolved, the models in all cubes adjacent to the explosion (in all directions) have 1 **Energy Shield** depleted.
 
-# Continuous Fire
+## Continuous Fire
 
 This weapon has an increased chance of damaging the enemy, but may overheat if fired for a prolonged period.
 
