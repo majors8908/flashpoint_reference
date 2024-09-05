@@ -1,5 +1,5 @@
 ---
-title: items
+title: Items
 layout: default
 ---
 ## Item Types
