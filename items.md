@@ -4,8 +4,6 @@ layout: default
 ---
 ## Item Types
 
-***
-
 ### Type I
 
 Type I items have an ongoing effect while they are being carried.
@@ -18,9 +16,9 @@ Type II items are used as a free action by the active model to cause an effect.
 
 Type III items can only be used with a Shoot test by an active model (the item itself does *not* give a free action). 
 
-## Items
-
 ***
+
+## Items
 
 ### Active Camouflage (Type II)
 
